@@ -14,13 +14,13 @@ The score will be displayed at the end of the game.
 ## Main.cpp File:
 This file contains the all the functions required for displaying the cubes and provides user interaction.
 Header files included:-
-•	Windows.h – For it contains declarations for all of the functions in the Windows API
-•	Iostream.h – For declaring the functions for standard Input/Output
-•	stdio.h - For Standard Input / Output
-•	stdarg.h - For Variable Argument Routines
-•	string.h - For String Management
-•	stdlib.h – For including Functions involving Memory Allocation and Process Control
-•	GL/gl.h - For the OpenGL32 Library
-•	GL/glu.h - For the GLu32 Library
-•	GL/glut.h - For the GLUT Library
+-	Windows.h – For it contains declarations for all of the functions in the Windows API
+-	Iostream.h – For declaring the functions for standard Input/Output
+-	stdio.h - For Standard Input / Output
+-	stdarg.h - For Variable Argument Routines
+-	string.h - For String Management
+-	stdlib.h – For including Functions involving Memory Allocation and Process Control
+-	GL/gl.h - For the OpenGL32 Library
+-	GL/glu.h - For the GLu32 Library
+-	GL/glut.h - For the GLUT Library
 
